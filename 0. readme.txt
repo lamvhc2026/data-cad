@@ -1,0 +1,14 @@
+1.	Edit dữ liệu từ file 1 - 6
+
+
+2.	Add thêm code vào @sxCAD.LSP
+
+
+3.	copy file vào thư mục gốc
+	    license.txt
+	    UpdateSxcad.exe
+
+4.	copy file vào thư mục data
+	    hddserial.dcl
+	    login.dcl
+	    sxCAD.dcl	
